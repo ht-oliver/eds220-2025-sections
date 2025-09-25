@@ -1,6 +1,6 @@
 # EDS 220 Discussion Sections Repository
 
-This repository hosts all the work completed by Henry Oliver during the discussion sections of EDS 220 - *Working with Environmental Data*.
+This repoository hosts all the work completed by Henry Oliver during the discussion sections of EDS 220 - *Working with Environmental Data*.
 
 ## Course Information
 
@@ -14,3 +14,4 @@ Teaching Team:
 - **Co-Instructor:** [Annie Adams](https://github.com/annieradams) 
 
 Complete materials for the discussion sections and additional resources can be found on the [course website](https://meds-eds-220.github.io/MEDS-eds-220-course/discussion-sections/discussion-sections-listing.html).
+
